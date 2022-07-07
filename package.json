@@ -17,7 +17,7 @@
     "font-awesome": "^4.7.0",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nprogress": "^0.2.0",
     "vant": "^1.6.15",
     "vue": "^2.2.2",
